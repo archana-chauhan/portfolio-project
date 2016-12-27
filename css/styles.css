@@ -1,0 +1,41 @@
+* {
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+.thick-line {
+    border: 2px solid #7d97ad;
+}
+
+.text-muted {
+    color: #7d97ad;
+    font-weight: bold;
+}
+
+.text-thin {
+    font-weight: 300;
+}
+
+.logo-image {
+    width: 100px;
+    height: 100px;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+.title-text {
+    font-size: 60px;
+}
+
+.kitten-image {
+    width: 100%;
+    height: 100%;
+}
+
+.section-image {
+    width: 100%;
+    height: 100%;
+}
